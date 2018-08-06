@@ -4,7 +4,7 @@ class Student
     puts "hello!"
   end
 
-  def self.raise_hand
+  def raise_hand
     puts "Pick me!"
   end
 end
