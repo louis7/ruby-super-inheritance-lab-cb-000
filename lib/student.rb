@@ -1,7 +1,7 @@
 class Student
 
   def hello
-    puts "hello!"    
+    puts "hello!"
   end
 
   def raise_hand
