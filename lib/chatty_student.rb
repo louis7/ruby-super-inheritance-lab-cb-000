@@ -4,7 +4,7 @@ def Chatty_student < Student
 
   def hello
     super
-    puts "Hey there! I'm so excited to learn stuff."+"I'm okay, but I'm kind of tired. Did you watch The Walking Dead last night?
+    puts "Hey there! I'm so excited to learn stuff. I'm okay, but I'm kind of tired. Did you watch The Walking Dead last night?
     You didn't?! Oh man, it was so crazy! What, you don't want any spoilers?
     Okay well let me just tell you who died..."
   end
