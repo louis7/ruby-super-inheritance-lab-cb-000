@@ -1,6 +1,1 @@
 
-def ChattyStudent < Student
-
-
-
-end
