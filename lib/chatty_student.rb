@@ -1,5 +1,4 @@
 
-include "student.rb"
 
 def ChattyStudent
 
