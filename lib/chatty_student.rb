@@ -1,6 +1,6 @@
 
 
-def ChattyStudent < Student
+def ChattyStudent 
   def hello
       super
       puts "Hey there! I'm so excited to learn stuff. I'm okay, but I'm kind of tired. Did you watch The Walking Dead last night?
