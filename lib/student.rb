@@ -1,6 +1,6 @@
 class Student
 
-  def self.hello
+  def hello
     puts "hello!"
   end
 
